@@ -82,7 +82,7 @@ void producer() {
     char Buffer1;
     //open up the file
     FILE *fp;
-    fp = fopen("lab5.txt", "r");
+    fp = fopen("Conway.txt", "r");
     if (fp == NULL) {
         char Z[100] = "The File you wish to open does not exist";
         printf("%s", Z);
