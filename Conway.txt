@@ -1,0 +1,7 @@
+1234*6**9*ABCDEFGHI*
+*bcdefghij**bcdefghi
+*****XXIXXabcdefghij
+*******hello********
+*******world********
+ABC*****IJKLMNOPQRST
+**        234      Z
